@@ -1,5 +1,5 @@
 test:
-  message: ABCD
+  message: AABB
   
 server:
   port: 3344
